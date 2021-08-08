@@ -16,12 +16,12 @@ Visit [My account](https://twitter.com/BotGirlcode) to see live twitter feeds, *
 
 # Author
 
-:bust_in_silhouette: **Kgaugelo Rabothata**
+:bust_in_silhouette: **Kgaugelo Rabothata** <br>
 <img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />: [@kgaugelo-rabothata](https://github.com/kgaugelo-rabothata) <br>
   <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> : [@misskayrabs](https://twitter.com/misskayrabs)
 
   ### :handshake: Contributing
-We are open to ideas and suggestions! If you want to contribute you are more than welcome to send a collaboration request!
+My friendly bot and I are open to ideas and suggestions! If you want to contribute you are more than welcome to send a collaboration request :wink:!
 
 ### Show your support!
 Give a :star: if you like this project!
